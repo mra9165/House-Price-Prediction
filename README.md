@@ -51,7 +51,6 @@ The preprocessing pipeline included:
 - Outlier removal
 - Label Encoding
 - One-Hot Encoding
-- Robust Scaling
 - Log transformation of target variable (`log1p`)
 - Box-Cox transformation for skewed numerical features
 
@@ -162,7 +161,6 @@ The project successfully:
 - Data Cleaning
 - Missing Value Imputation
 - Feature Engineering
-- Feature Scaling
 - Encoding Techniques
 - Box-Cox Transformation
 - Cross Validation
@@ -179,6 +177,6 @@ The project successfully:
 
 Machine Learning | Data Science
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *www.linkedin.com/in/mohitraj1108*
 
-GitHub: *(Add your GitHub Profile URL)*
+GitHub: *https://github.com/mra9165*
